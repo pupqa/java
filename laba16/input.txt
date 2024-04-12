@@ -1,0 +1,21 @@
+public class Example {
+    public static void main(String[] args) {
+        /*
+        Это многострочный комментарий
+        он может содержать любые символы и переносы строк
+        */
+        System.out.println("Hello, world!");
+
+        // Однострочный комментарий
+        System.out.println("This is a comment");
+
+        /*
+        Еще один многострочный комментарий
+        с содержимым на нескольких строках
+        */
+        System.out.println("More code here");
+
+        // Еще один однострочный комментарий
+        System.out.println("End of program");
+    }
+}
